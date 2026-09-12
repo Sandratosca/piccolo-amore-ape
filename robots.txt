@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piccolo-amore-ape.ch/sitemap.xml
