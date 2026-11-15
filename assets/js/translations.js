@@ -140,36 +140,28 @@ window.PICCOLO_TRANSLATIONS = {
     "en": "Our 1974 Piaggio Ape comes from Sicily. Today, a new chapter is beginning in Switzerland. Its transformation into a mobile coffee bar is still under way – here is the story so far."
   },
   "story.one.title": {
-    "de": "01 · Italienische Wurzeln",
-    "en": "01 · Italian roots"
+    "de": "Italienische Wurzeln",
+    "en": "Italian roots"
   },
   "story.one.p": {
-    "de": "Bevor sie zur piccolo amore wurde, war unsere Ape ein klassischer italienischer Kleintransporter mit Ladefläche. Ihre Herkunft liegt auf Sizilien – ein Stück italienischer Alltagskultur, das wir erhalten möchten.",
-    "en": "Before becoming piccolo amore, our Ape was a classic Italian three-wheeled pickup. It comes from Sicily – a little piece of everyday Italian heritage we want to preserve."
+    "de": "Unsere Piaggio Ape stammt aus Sizilien. Als klassischer Kleintransporter mit Ladefläche war sie ursprünglich für den italienischen Alltag gebaut. Heute beginnt für sie eine neue Geschichte.",
+    "en": "Our Piaggio Ape comes from Sicily. Originally built as a small three-wheeled utility vehicle, it was part of everyday life in Italy. Now a new chapter begins."
   },
   "story.two.title": {
-    "de": "02 · Die Reise in die Schweiz",
-    "en": "02 · The journey to Switzerland"
+    "de": "Die Reise in die Schweiz",
+    "en": "The journey to Switzerland"
   },
   "story.two.p": {
-    "de": "Die Ape verliess Italien auf einem Transportfahrzeug und kam in die Schweiz. Damit begann der nächste Abschnitt ihrer Geschichte.",
-    "en": "The Ape left Italy on a vehicle transporter and arrived in Switzerland. That journey marked the start of a new chapter."
+    "de": "Auf einem Transportfahrzeug reiste die Ape von Italien in die Schweiz. Hier entstand die Idee, ihr ein zweites Leben als mobile Kaffee- und Aperitivo-Bar zu geben.",
+    "en": "The Ape travelled from Italy to Switzerland on a vehicle transporter. Here, the idea took shape to give it a second life as a mobile coffee and aperitivo bar."
   },
   "story.three.title": {
-    "de": "03 · Ein Blick unter die Haube",
-    "en": "03 · Behind the scenes"
+    "de": "Der Umbau",
+    "en": "The transformation"
   },
   "story.three.p": {
-    "de": "Für den Umbau wurde die Ladefläche abgenommen. Motor, Fahrgestell und Innenraum sind nun gut zugänglich. Die Bilder zeigen den Zwischenstand der Arbeiten – nicht bereits ein fertiges Fahrzeug.",
-    "en": "The original cargo bed has been removed for the conversion. The engine, chassis and cabin are now accessible. These photos show work in progress, not a finished vehicle."
-  },
-  "story.four.title": {
-    "de": "04 · Die Verwandlung geht weiter",
-    "en": "04 · The transformation continues"
-  },
-  "story.four.p": {
-    "de": "Aus dem kleinen Nutzfahrzeug soll eine mobile Kaffee- und Aperitivo-Bar werden. Noch wird daran gearbeitet. Sobald es Neues gibt, ergänzen wir hier die nächsten Schritte – bis zur ersten Tasse Espresso.",
-    "en": "The little utility vehicle is becoming a mobile coffee and aperitivo bar. Work is still in progress. We will add the next stages here as they happen – right up to the first cup of espresso."
+    "de": "Die Ladefläche ist bereits demontiert, und das Fahrgestell liegt frei. Schritt für Schritt wird aus der Ape eine mobile Kaffee- und Aperitivo-Bar. Der Umbau läuft noch – wir zeigen hier den aktuellen Stand.",
+    "en": "The cargo bed has already been removed, exposing the chassis. Step by step, the Ape is being transformed into a mobile coffee and aperitivo bar. Work is still underway – this is where things stand today."
   },
   "story.cta": {
     "de": "Du möchtest mehr erfahren oder einen Anlass anfragen?",
@@ -200,24 +192,12 @@ window.PICCOLO_TRANSLATIONS = {
     "en": "piccolo amore – mobile coffee catering"
   },
   "alt.italy": {
-    "de": "Beigefarbene Piaggio Ape mit originaler Ladefläche vor einer Werkstatt",
-    "en": "Cream-coloured Piaggio Ape with its original cargo bed outside a workshop"
+    "de": "Beigefarbene Piaggio Ape mit Ladefläche in Italien",
+    "en": "Cream-coloured Piaggio Ape with cargo bed in Italy"
   },
   "alt.transport": {
-    "de": "Piaggio Ape auf einem Transportfahrzeug",
-    "en": "Piaggio Ape on a vehicle transporter"
-  },
-  "alt.chassis": {
-    "de": "Piaggio Ape mit freigelegtem Fahrgestell und demontierter Ladefläche",
-    "en": "Piaggio Ape with exposed chassis and removed cargo bed"
-  },
-  "alt.motor": {
-    "de": "Motor und Innenraum der Piaggio Ape während des Umbaus",
-    "en": "Piaggio Ape engine and cabin during the conversion"
-  },
-  "alt.body": {
-    "de": "Piaggio Ape ohne Ladefläche während des Umbaus",
-    "en": "Piaggio Ape without its cargo bed during conversion"
+    "de": "Piaggio Ape auf einem Transportfahrzeug auf dem Weg in die Schweiz",
+    "en": "Piaggio Ape on a vehicle transporter on its way to Switzerland"
   },
   "meta.home.title": {
     "de": "piccolo amore | Mobile Coffee Catering",
@@ -242,5 +222,9 @@ window.PICCOLO_TRANSLATIONS = {
   "meta.privacy.title": {
     "de": "Datenschutz | piccolo amore",
     "en": "Privacy | piccolo amore"
+  },
+  "alt.conversion": {
+    "de": "Beigefarbene Piaggio Ape mit freigelegtem Fahrgestell während des Umbaus",
+    "en": "Cream-coloured Piaggio Ape with exposed chassis during conversion"
   }
 };
