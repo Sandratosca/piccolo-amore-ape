@@ -21,3 +21,9 @@ Statisches Grundgerüst für GitHub Pages.
 ## GitHub Pages
 Repository erstellen, Inhalt hochladen und unter `Settings > Pages` den Branch `main` und `/ (root)` auswählen.
 Die Datei `CNAME` ist bereits auf `piccolo-amore-ape.ch` gesetzt.
+
+## Version DE / EN
+Die Sprachauswahl wird lokal im Browser gespeichert. Übersetzungen stehen in `assets/js/translations.js`, die Umschaltung in `assets/js/main.js`. Die Geschichte steht unter `pages/geschichte.html`. Eventanfragen öffnen das lokale E-Mail-Programm. Nach dem Testen die Dateien unverändert in das GitHub-Repository hochladen.
+
+## Version DE / EN
+Die Sprachauswahl wird lokal im Browser gespeichert. Übersetzungen stehen in `assets/js/translations.js`, die Umschaltung in `assets/js/main.js`. Die Geschichte steht unter `pages/geschichte.html`. Eventanfragen öffnen das lokale E-Mail-Programm. Nach dem Testen die Dateien unverändert in das GitHub-Repository hochladen.
