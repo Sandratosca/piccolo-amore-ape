@@ -172,8 +172,8 @@ window.PICCOLO_TRANSLATIONS = {
     "en": "Legal notice"
   },
   "legal.place": {
-    "de": "Nidwalden – Schweiz",
-    "en": "Nidwalden – Switzerland"
+    "de": "Bürgenstockstrasse 5, 6363 Fürigen",
+    "en": "Bürgenstockstrasse 5, 6363 Fürigen"
   },
   "legal.privacy": {
     "de": "Datenschutz",
